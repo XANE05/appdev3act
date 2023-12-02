@@ -1,0 +1,4 @@
+D:\VB\ProfilerApp\ProfilerApp\bin\Release\ProfilerApp.exe.config
+D:\VB\ProfilerApp\ProfilerApp\obj\Release\ProfilerApp.Form1.resources
+D:\VB\ProfilerApp\ProfilerApp\obj\Release\ProfilerApp.Resources.resources
+D:\VB\ProfilerApp\ProfilerApp\obj\Release\ProfilerApp.vbproj.GenerateResource.Cache
